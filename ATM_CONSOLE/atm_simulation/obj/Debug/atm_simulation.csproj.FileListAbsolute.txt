@@ -1,0 +1,2 @@
+E:\C# PRACTICAS\ATM_CONSOLE\atm_simulation\obj\Debug\atm_simulation.csproj.AssemblyReference.cache
+E:\C# PRACTICAS\ATM_CONSOLE\atm_simulation\obj\Debug\atm_simulation.csproj.CoreCompileInputs.cache
